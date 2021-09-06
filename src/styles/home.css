@@ -1,0 +1,20 @@
+.bol-article-container{
+    margin-top: 50px;
+}
+
+@media(max-width: 360px){ 
+    .bol-article-container{
+        margin-top: 200px;
+        position: static;
+    }
+
+    .bol-latest-red-horizontal{
+        margin-top: 45px;
+        width: 40%;
+    }
+
+    .bol-container{
+        position: relative;
+        top: 590px;
+    }
+}

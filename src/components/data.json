@@ -1,0 +1,39 @@
+[
+    {
+        "list1" : "Home",
+        "list2" : "Bollywood",
+        "list3" : "Technology",
+        "list4" : "Hollywood",
+        "list5" : "Fitness",
+        "list6" : "Food"
+    },
+    
+    {
+        "heading1" : "The Latest",
+        "heading2" : "Latest Articles",
+        "heading3" : "Top Post",
+        "heading4" : "Latest Stories"
+    },
+    {
+        "navHeading" : "Bollywood"
+    },
+    {
+        "headingLatest" : "Joshua Tree Overnight Adventure",
+        "cardpara": "Gujrat is vastly underrated and it's a mystery to us why the region isn't more well-known as a tourist destination. it has a plethora of temples and places",
+        "travel" : "Travel",
+        "date" : "/ August 21 2027",
+        "headingArticle": "Catch Waves with an adventures Guide",
+        "cardpara2": "Gujrat is vastly underrated and it's a mystery to us",
+        "tech" : "TECH",
+        "date2" :"Today at 11.32am"
+    },
+    {
+        "techHeading" : "5 Ways to animate a Reat app.",
+        "name" : "Dmitry Nozhenk",
+        "dateTime" : "10 jan, 2021 28min read"
+    },
+    {
+        "nameTech" : "Dmitry Noznheko",
+        "techPara" : "Performance comparison for 5 javascript object iterations"
+    }
+]

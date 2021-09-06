@@ -1,0 +1,580 @@
+.main-container-1{
+    display: flex;
+    position: relative;
+    top: 50px;
+    margin-bottom:100px;
+}
+
+.gallery-image{
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.image1{
+    width: 52.5vw;
+    height: 70vh;
+}
+
+.image2{
+    width: 25vw;
+    height: 34.3vh;
+    position: relative;
+    top: 8px;
+    margin-bottom: 10px;
+}
+
+.image{
+    border-radius: 10px;
+}
+
+.latest-container{
+    left: 12%;
+}
+
+.latest-heading{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 5%;
+}
+
+.red-horizontal{
+    width: 50px;
+    height: 2px;
+    background-color: red;
+    position: relative;
+    bottom:40px;
+}
+
+.latest-main-container{
+    position: relative;
+}
+
+.card-latest{
+    display: flex;
+}
+
+.latest-card-container{
+    width: 32%;
+    height: 450px;
+    margin-right: 3%;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    box-shadow: 2px 2px 3px lightgray;
+    position: relative;
+    left: 2%; 
+    background-color: rgb(230, 226, 222);
+}
+
+.temple-image{
+    width: 100%;
+    height: 220px;
+    border-radius: 2px;
+}
+
+.description{
+    text-align: start;
+    padding: 20px;
+    margin-right: 20px;
+    position: relative;
+    bottom: 25%;
+}
+
+.description h3{
+    font-size: 19px;
+    margin-bottom: 30px;
+}
+
+.para1{
+    font-size: 12px;
+    font-weight: 600;
+    color: gray;
+    margin-top: -10px;
+}
+
+.travel{
+    margin-top: 30px;
+}
+
+.description h5{
+    font-size: 13px;
+}
+
+.travel span{
+    color: rgb(197, 194, 194);
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.article-container{
+    margin-top: 10px ;
+}
+
+.latest-red-horizontal{
+    margin-top: -10px;
+    width: 80px;
+}
+
+.main-image-container{
+    width: 60%;
+    position: absolute;
+    left: 10%;
+}
+
+.main-image-container h5{
+    position: relative;
+    left: 39%;
+    bottom: 30px;
+}
+
+.article-hor{
+    width: 85%;
+    height: 1px;
+    background-color: rgb(247, 241, 241);
+    box-shadow: 1px 1px 2px  grey;
+}
+
+.article-card{
+    display: flex;
+    height: 200px;
+}
+
+.article-image{
+    width: 60%;
+    height: 150px;
+    border-radius: 3px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.article-text{
+    margin-top: 20px;
+    position: relative;
+    right: 19%;
+}
+
+.article-text .travel{
+    position: relative;
+    left: -0px;
+    bottom: 10px;
+}
+
+.article-text h5{
+    font-size: 13px;
+}
+
+.article-text h3{
+    font-size: 19px;
+    font-weight: 600;
+    margin: 15px 0px 20px 0;
+}
+
+.arrow-container{
+    display: flex;
+}
+
+.arrow-container .arrow-image{
+    width: 8px;
+    height: 20px;
+    margin-left: 40px;
+}
+
+.arrow-container p{
+    font-size: 14px;
+    margin-left: 7px;
+    color: gray;
+}
+
+.advert{
+    position: absolute;
+    width: 23%;
+    height: 100%;
+    left: 66%;
+    border: 1.5px solid rgb(185, 183, 183);
+    border-radius: 5px;    
+}
+
+.adv-text{
+    text-align: center;
+    margin-top: 100%;
+}
+
+.top-post-container{
+    width: 23vw;
+    position: relative;
+    top:650px;
+    left: 70%;
+}
+
+.post-heading{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.post-red-horizontal{
+    width: 45px;
+    margin-top: 50px;
+}
+
+.post-image{
+    width: 100%; 
+}
+
+.post-heading2{
+    margin-top: 0;
+    position: relative;
+    font-size: 18px;
+    bottom: 125px;
+    margin-right: 10px;
+}
+
+.post-travel{
+    position: relative;
+    left: 1%;
+    bottom: 140px;
+    font-size: 13px;
+}
+
+.number{
+    font-size: 35px;
+    color: rgb(229, 226, 226);
+    position: relative;
+    left: 105%;
+    bottom: 300px;
+}
+
+.post-description{
+    margin-bottom: -270px;
+}
+
+.three-para .article-card-container{
+    width: 300px;
+}
+
+.three-para{
+    width: 100%;
+    font-size: 12px;
+    margin: 0;
+    margin-bottom: 100px;
+}
+
+.three-para .article-hor{
+    width: 350px;
+}
+
+.three-para .article-image{
+    width: 100px;
+    height: 70px;
+    position: relative;
+    top: 10px;
+}
+
+.three-para h3{
+    font-size: 14px;
+    position: relative;
+    bottom: 10px;
+    left: 68px ;
+}
+
+.three-para .para1{
+    visibility: hidden;
+}
+
+.three-para .travel{
+    font-size: inherit;
+    position: relative;
+    left: 42%;
+    bottom: 43%;
+} 
+
+.number1{
+    font-size: 35px;
+    color: rgb(229, 226, 226);
+    position: relative;
+    left: 105%;
+    bottom: 30px;
+}
+
+.three-para .article-card{
+    margin-bottom:-150px;
+}
+
+.big-image{
+    position: relative;
+    top: 90px;
+}
+
+.big-image img{
+    width: 60%;   
+    height: 465px;
+    border-radius: 5px ;
+}
+
+.stories-container{
+    position: relative;
+    top: 150px;
+}
+
+.stories-heading{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.stories-container .red-horizontal{
+    margin-top: 50px;
+}
+
+.stories-main-container{
+    display: flex;
+    width: 85vw;   
+}
+
+.stories-card-container{
+    padding: 1px;
+    border-radius: 5px;
+    position: relative;
+    right: 2%;
+}
+
+.stories-card-container h3{
+    font-size: 19px;
+    margin-bottom: 30px;
+}
+
+.stories-main-container .article-hor{
+    display: none;
+}
+
+.tech{
+    font-size: 10px;
+    margin-top: 5px;
+}
+
+@media(max-width: 360px){ 
+    .main-container-1{
+        display: block;
+        position: relative;
+        top: 50px;
+        margin-bottom:100px;
+    }
+    
+    .gallery-image{
+        margin-left: 0px;
+    }
+
+    .gallery-image img{
+        width: 100vw;
+        height: 400px;
+        object-fit: cover;
+        margin-top: 50px;      
+    }
+
+    .sound-image{
+        display: none;
+    }
+
+    .latest-heading{
+        margin-bottom: 15%;
+        margin-left: 15px;
+    }
+
+    .red-horizontal{
+        width: 60px;
+        bottom:40px;
+        left: 10px;
+    }
+
+    .card-latest{
+        display: block;
+    }
+
+    .latest-card-container{
+        width: 87vw;
+        height: 500px;
+        left: 5%; 
+        margin-bottom: 50px;
+    }
+
+    .temple-image{
+        height: 250px;
+    }
+
+    .description{
+        bottom: 27%;
+    }
+
+    .latest-card-container h3{
+        font-size: 23px !important;
+        margin-top: 20px;
+    }
+
+    .article-container{
+        margin-top: 10px ;
+    }
+    
+    .latest-red-horizontal{
+        margin-top: 15px;
+        width: 80px;
+    }
+    
+    .main-image-container{
+        width: 95vw;
+        left: 15%;
+    }
+    
+    .main-image-container h5{
+        position: relative;
+        left: 39%;
+        bottom: 40px;
+    }
+    
+    .article-card{
+        display: flex;
+    }
+    
+    .article-image{
+        width: 35vw;
+        height: 130px;
+        left: 0px;
+    }
+    
+    .article-text{
+        right: 2%;
+    }
+    
+    .article-text .travel{
+        bottom: 25px;
+    }
+    
+    .article-text h3{
+        font-size: 19px;
+        margin-top: 2px;
+    }
+
+    .article-text p{
+        margin-top: -15px;
+    }
+
+    .advert{
+        display: none; 
+    }
+
+    .top-post-container{
+        width: 100vw;
+        position: relative;
+        top: 850px;
+        left: 0;
+    }
+    
+    .post-heading{
+        margin-left: 15px;
+        
+    }
+    .post-image{
+        width: 85vw; 
+        height: 250px;
+        margin-left: 25px;
+    }
+    
+    .post-heading2{
+        left: 25px;
+        bottom: 160px;
+        margin-right: 30px;
+        font-size: 20px;
+    }
+    
+    .post-travel{
+        position: relative;
+        left: 8%;
+        bottom: 180px;
+        margin-bottom: 30px;
+    }
+    
+    .number{
+        display: none;
+    }
+    
+    .three-para .article-hor{
+        width: 85vw;
+        margin-left: 8%;
+    }
+    
+    .three-para .article-image{
+        width: 110px;
+        height: 75px;
+        left: 7%;
+        margin-top: -4px;
+    }
+    
+    .three-para h3{
+        font-size: 18px;
+        bottom: 10px;
+        left: 32px;
+    }
+    
+    .three-para .travel{
+        left: 15%;
+        bottom: 38%;
+    } 
+    
+    .number1{
+        visibility: hidden;
+    }
+    
+    .three-para .article-card{
+        margin-bottom:-150px;
+    }
+
+    .big-image{
+        display: none;
+    }
+    
+    .stories-container{
+        top: 820px;
+    }
+
+    .stories-heading{
+        font-size: 25px;
+        margin-left: 8%;
+    }
+
+    .stories-container .red-horizontal{
+        width: 30%;
+        margin-left: 2%;
+    }
+
+    .stories-main-container{
+        display: block;
+        width: 85vw; 
+        margin-left: 8%;
+    }
+
+    .stories-main-container .article-hor{
+        display: block;
+        width: 85vw;
+        margin-top: 30px;
+    }
+
+    .stories-card-container{
+        margin-bottom: -60px;
+    }
+
+    .stories-card-container h3{
+        font-size: 20px;
+        margin-top: 10px;
+    }
+
+    .stories-card-container p{
+        font-size: 15px;
+    }
+
+    .tech{
+        position: relative;
+        left: 0%;
+        margin-bottom: 30px;
+}
+    
+}
+
+
